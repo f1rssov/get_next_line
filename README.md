@@ -1,3 +1,3 @@
 # get_next_line
 
-[Uploading 01-get_next_line-en.pdf…]()
+For detailed information, refer to the [subject of this project.]()
